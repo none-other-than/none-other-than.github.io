@@ -3174,7 +3174,7 @@ input, select, textarea {
 		/* Header */
 
 			#header {
-				background-image: url("images/top-1280.svg"), url("img/trees.jpg"), url("../../images/header.jpg");
+				background-image: url("images/top-1280.svg"), url("../../img/trees.jpg"), url("../../images/header.jpg");
 				background-size: 1280px 184px,						auto,							cover;
 				padding: 3em 0 7em 0;
 			}
